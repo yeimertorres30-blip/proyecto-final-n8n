@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sartén de Hierro Fundido 26cm",
+    "precio": 189900,
+    "categoria": "Ollas y Sartenes",
+    "imagen": "assets/sarten.svg",
+    "descripcion": "Sartén de hierro fundido con curado natural, ideal para sellar carnes y hornear. Distribuye el calor de forma uniforme y dura toda la vida si se cuida bien."
+  },
+  {
+    "id": 2,
+    "nombre": "Cuchillo Santoku Profesional",
+    "precio": 145000,
+    "categoria": "Cuchillería",
+    "imagen": "assets/cuchillo.svg",
+    "descripcion": "Hoja de acero al carbono de 18cm con alveolos antiadherentes. Filo japonés de doble bisel, perfecto para picar, cortar y rebanar sin esfuerzo."
+  },
+  {
+    "id": 3,
+    "nombre": "Batidora de Pie 5L",
+    "precio": 650000,
+    "categoria": "Electrodomésticos",
+    "imagen": "assets/batidora.svg",
+    "descripcion": "Motor de 600W con 6 velocidades, bowl de acero inoxidable de 5 litros y tres accesorios: gancho, globo y pala. Pensada para panadería casera."
+  },
+  {
+    "id": 4,
+    "nombre": "Set de Ollas de Acero Inoxidable (5 pzs)",
+    "precio": 420000,
+    "categoria": "Ollas y Sartenes",
+    "imagen": "assets/ollas.svg",
+    "descripcion": "Juego de cinco ollas con fondo triple capa para una cocción uniforme, tapas de vidrio templado y mangos ergonómicos que no se calientan."
+  },
+  {
+    "id": 5,
+    "nombre": "Tabla de Cortar de Bambú",
+    "precio": 65000,
+    "categoria": "Utensilios",
+    "imagen": "assets/tabla.svg",
+    "descripcion": "Tabla de bambú prensado, resistente a los cortes y con canal perimetral para jugos. Incluye asas laterales para un traslado fácil y seguro."
+  },
+  {
+    "id": 6,
+    "nombre": "Juego de Vajilla de Cerámica (16 pzs)",
+    "precio": 310000,
+    "categoria": "Vajilla",
+    "imagen": "assets/vajilla.svg",
+    "descripcion": "Vajilla artesanal esmaltada para 4 personas: platos llanos, hondos, postre y tazas. Apta para horno, microondas y lavavajillas."
+  },
+  {
+    "id": 7,
+    "nombre": "Molde para Horno Antiadherente",
+    "precio": 58000,
+    "categoria": "Repostería",
+    "imagen": "assets/molde.svg",
+    "descripcion": "Molde desmontable de 26cm con recubrimiento antiadherente reforzado. Ideal para tortas, quiches y cheesecakes de bordes limpios."
+  },
+  {
+    "id": 8,
+    "nombre": "Cafetera Italiana Moka 6 Tazas",
+    "precio": 95000,
+    "categoria": "Electrodomésticos",
+    "imagen": "assets/cafetera.svg",
+    "descripcion": "Cafetera de aluminio de inducción manual, construcción octagonal clásica y válvula de seguridad. Prepara un café intenso estilo espresso."
+  }
+]
